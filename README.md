@@ -7,6 +7,7 @@ Original English document for reference [here](https://ethereumclassic.github.io
 Finished:
 - English			[(edit)](https://github.com/EthereumClassic/DeclarationOfIndependence/blob/gh-pages/index.html). Result: [https://ethereumclassic.github.io/DeclarationOfIndependence/](https://ethereumclassic.github.io/DeclarationOfIndependence/)
 - Spanish     [(edit)](https://github.com/EthereumClassic/DeclarationOfIndependence/blob/gh-pages/es-es/index.html). Result: [https://ethereumclassic.github.io/DeclarationOfIndependence/es-es/](https://ethereumclassic.github.io/DeclarationOfIndependence/es-es/)
+- Spanish Colombia     [(edit)](https://github.com/EthereumClassic/DeclarationOfIndependence/blob/gh-pages/es-co/index.html). Result: [https://ethereumclassic.github.io/DeclarationOfIndependence/es-co/](https://ethereumclassic.github.io/DeclarationOfIndependence/es-co/)
 - Portuguese  [(edit)](https://github.com/EthereumClassic/DeclarationOfIndependence/blob/gh-pages/pt-br/index.html). Result: [https://ethereumclassic.github.io/DeclarationOfIndependence/pt-br/](https://ethereumclassic.github.io/DeclarationOfIndependence/pt-br/)
 - Russian     [(edit)](https://github.com/EthereumClassic/DeclarationOfIndependence/blob/gh-pages/ru-ru/index.html). Result: [https://ethereumclassic.github.io/DeclarationOfIndependence/ru-ru/](https://ethereumclassic.github.io/DeclarationOfIndependence/ru-ru/)
 
